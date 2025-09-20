@@ -1,0 +1,14 @@
+//my_region/etc/oplus_carrier_config.xml 1
+//my_region/global/oplus_carrier_list.xml 2-5
+//my_region/O/etc/atomconfig.xml 6
+//my_region/P/etc/atomconfig.xml 7
+//my_region/etc/extension/com.oplus.app-features.xml 8-9
+//my_region/etc/extension/com.oplus.oplus-feature.xml 10
+//my_region/etc/extension/sys_minigame_config.json 11
+//my_region/etc/startup/cdo_game_apps_config_list.xml 12-13
+//my_region/etc/startup/safe_boot_whitelist.xml 14
+//my_region/etc/startup/sys_startup_v3_config_list.xml 15-20
+//my_region/etc/startup/sys_startupmanager_config_list.xml 21-24
+//my_region/O/etc/extension/sys_minigame_config.json 25
+//my_region/P/etc/extension/sys_minigame_config.json 26
+//my_region/etc/aisubsystem/Plugin/plugin-full_search_llm_cn-189796359-150007-pall-CN.apk 27-588
