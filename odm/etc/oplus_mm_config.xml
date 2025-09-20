@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <prjname>24620></prjname>
+    <!-- memory 24g -->
+    <memory_24g>
+        <!-- zram0 configuration -->
+        <zram0>
+            <disk_size_mb>8704</disk_size_mb>
+            <increase_limit>0</increase_limit>
+        </zram0>
+    </memory_24g>
+    <!-- memory 16g -->
+    <memory_16g>
+        <!-- zram0 configuration -->
+        <zram0>
+            <disk_size_mb>8704</disk_size_mb>
+            <increase_limit>0</increase_limit>
+        </zram0>
+    </memory_16g>
+    <!-- memory 12g -->
+    <memory_12g>
+        <!-- zram0 configuration -->
+        <zram0>
+            <disk_size_mb>6656</disk_size_mb>
+            <increase_limit>0</increase_limit>
+        </zram0>
+    </memory_12g>
+</config>
