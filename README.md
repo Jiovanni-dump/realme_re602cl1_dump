@@ -1,0 +1,14 @@
+# qssi-user 15 AP3A.240617.008 1755253742605 release-keys
+- manufacturer: realme
+- platform: sun
+- codename: RE602CL1
+- flavor: qssi-user
+- release: 15
+- id: AP3A.240617.008
+- incremental: V.3293dbd-135aa68-13a38a3
+- tags: release-keys
+- fingerprint: realme/RMX5090/RE602CL1:15/AP3A.240617.008/V.3293dbd-135aa68-13a38a3:user/release-keys
+- is_ab: true
+- brand: realme
+- branch: qssi-user-15-AP3A.240617.008-1755253742605-release-keys
+- repo: realme_re602cl1_dump

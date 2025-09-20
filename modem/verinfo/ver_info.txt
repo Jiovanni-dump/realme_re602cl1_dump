@@ -1,0 +1,26 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "LPAIDSP.HT.1.1-00840.2-PAKALA-1.81269.10",
+        "aop": "AOP.HO.6.0-00119-PAKALA_E-1.81269.9",
+        "boot": "BOOT.MXF.2.5.1-00040.1-PAKALA-1.81269.25",
+        "btfm_brh": "BTFW.BRAHMA.2.0.0-00176-PATCHZ-1",
+        "btfm_gng": "BTFW.GANGES.2.0.0-00215-PATCHZ-1",
+        "cdsp": "CDSP.HT.3.1-00642.1-PAKALA-1",
+        "common": "Pakala.LA.1.0.r1-00990-STD.PROD-1.88996.1",
+        "cpucp": "CPUCP.FW.1.0-00043-PAKALA.EXT-1.85860.2",
+        "modem": "MPSS.DE.7.0-02024.3-PAKALA_GEN_PACK-1.81186.170",
+        "pdp": "PDP.FW.1.0-00099-PAKALA.EXT-1.85860.2",
+        "soccp": "SOCCP.FW.1.0-00140-PAKALA_SOCCP_PACK-1.81269.2",
+        "spss": "SPSS.A1.1.10-00046-PAKALA-1",
+        "tmel": "TMEL.GANGES.2.0-00043-PT_GEN_PACK-2",
+        "tz": "TZ.XF.5.29-00052-PAKALA-1.81269.14",
+        "tz_apps": "TZ.APPS.1.29-00073-PAKALA-1.81269.5",
+        "wlan_gng": "WLAN.GNG.1.0-03338-QCAGNGSWPL_V1.0_V2.0_SILICONZ-1"
+    },
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Pakala.LA.1.0.r1-00990-STD.PROD-1.88996.1",
+        "Product_Flavor": "asic",
+        "Time_Stamp": "2025-07-29 22:04:55"
+    },
+    "Version": "1.0"
+}
