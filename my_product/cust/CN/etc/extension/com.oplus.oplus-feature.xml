@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.software.radio.ims_rtp_redun_support"/>
+	<oplus-feature name="oplus.software.directservice.finger_flashnotes_enable"/>
+</oplus-config>
+<!-- Timestamp 2025-06-16T11:06:52 #745789 -->

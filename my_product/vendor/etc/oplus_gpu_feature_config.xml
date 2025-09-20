@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<filter-conf>
+    <version>20240805</version>
+    <toggle>1</toggle>
+    <features>
+
+        <feature name="Switch2SkiaGL" enable="1">
+            <!-- 支付宝 -->
+            <application name="com.eg.android.AlipayGphone"></application>
+            <!-- 今日头条 -->
+            <application name="com.ss.android.article.news"></application>
+            <!-- 今日头条极速版 -->
+            <application name="com.ss.android.article.lite"></application>
+            <!-- 贝乐虎儿歌 -->
+            <application name="com.ubestkid.beilehu.android"></application>
+            <!-- 阿里巴巴 -->
+            <application name="com.alibaba.wireless"></application>
+        </feature>
+    </features>
+</filter-conf>

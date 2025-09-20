@@ -1,0 +1,141 @@
+<oplus-config>
+
+    <!-- Peng.Yizhang@ANDROID.SENSOR, 2020/11/20, add for QCOM Linear motor vibrator -->
+    <oplus-feature name="oplus.software.vibrator_qcom_lmvibrator" />
+    <!-- Peng.Yizhang@ANDROID.SENSOR, 2020/11/20, add end -->
+    <!-- Haifeng.Zhu@ANDROID.BIOMETIRC, 2021/05/13, add for feature face close eye verify -->
+    <oplus-feature name="oplus.software.face_closeeye_detect"/>
+
+    <!-- Guofu.Yang@ANDROID.INPUT, 2020/06/17, add for Linear motor vibrator -->
+    <oplus-feature name="oplus.software.vibrator_lmvibrator" />
+    <!-- Guofu.Yang@ANDROID.INPUT, 2020/06/08, add end -->
+
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive -->
+    <oplus-feature name="oplus.software.keep_alive" />
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add for wake up arouse -->
+    <oplus-feature name="oplus.software.wake_up_arouse_support" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add end -->
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add for blackgesture -->
+    <oplus-feature name="oplus.software.gesture_proximitysensor" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add end -->
+
+    <!-- Fei.Luo@ANDROID.SENSOR, 2020/11/20, add for acc richtap -->
+    <oplus-feature name="oplus.software.vibrator_richctap" />
+    <!-- Fei.Luo@ANDROID.SENSOR, 2020/11/20, add end -->
+
+    <!-- Hang.Zhao@BSP.CHG, 2022/09/15, add for new oplusvibrator interface -->
+    <oplus-feature name="oplus.hardware.vibrator_oplus_v1" />
+    <!-- Hang.Zhao@BSP.CHG, 2022/09/15, add end -->
+
+    <!-- Fei.Luo@ANDROID.SENSOR, 2020/11/20, add for keyboard vibration convert -->
+    <oplus-feature name="oplus.software.vibration_keyboard_convert" />
+    <!-- Fei.Luo@ANDROID.SENSOR, 2020/11/20, add end -->
+
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/9, add for vibrator_xlinear -->
+    <oplus-feature name="oplus.hardware.vibrator_xlinear_type" />
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/9, add end -->
+
+    <!-- Wenyao.Li@BSP.SENSOR, 2024/06/21, add for rear_IR -->
+    <oplus-feature name="oplus.hardware.type.rear_IR" />
+    <!-- Wenyao.Li@BSP.SENSOR, 2024/06/21, add end -->
+
+    <!-- steve.shen@OPTI, 2021/03/12, Add for animation scroll opt -->
+    <oplus-feature name="oplus.software.scroll.animation_opt" />
+
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/24, add for typecotg -->
+    <oplus-feature name="oplus.typecotg.connection.menu.support" />
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/24, add end -->
+
+    <!-- Jingcheng.Shi@ANDROID.POWER, 2023/09/22, Add for keep game screen on during call -->
+    <oplus-feature name="oplus.software.game.keep_screen_on_during_call" />
+    <!-- Jingcheng.Shi@ANDROID.POWER, 2023/09/22, Add for keep game screen on during call end -->
+
+    <!-- Shasha.Yu@ANDROID.SENSOR, 2023/07/25, add for Fusion Light Support -->
+    <oplus-feature name="oplus.sensor.fusionlight.support" />
+    <!-- Shasha.Yu@ANDROID.SENSOR, 2023/07/25, add for Fusion Light Support end. -->
+    <!-- ZhangYanbin@ANDROID.WMS, 2023/8/14, add for service/provider bind small core  -->
+    <oplus-feature name="oplus.software.bind_small_core" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2023/8/14, add end -->
+    <!-- Fenda.Liu@ANDROID.POWER, 2023/07/10, Add for input deload opt-->
+    <oplus-feature name="oplus.software.input.game.deloading.enable" />
+    <!-- Jingcheng.Shi@ANDROID.POWER, 2023/04/10, Add for input deload opt end -->
+    <!-- ZhangYanbin@ANDROID.WMS, 2023/08/14, Add for app resolution switch -->
+    <oplus-feature name="oplus.software.app_resolution_switch" />
+    <oplus-feature name="oplus.software.app_resolution_auto" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2023/08/14,add for app custom refresh rate -->
+    <oplus-feature name="oplus.software.display.refreshrate_default_override" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2023/8/14, add end -->
+
+    <!-- #Fei.Ma@PSW.AD.Memory, 2022/08/22, Disable delayed kill cached processes to
+    reduce the impact on boot memory. -->
+    <oplus-feature name="oplus.software.ams.disable_delay_mcp_kill" />
+    <!-- Jingcheng.Shi@ANDROID.input, 2023/09/05,add for dynamic report rate -->
+    <oplus-feature name="oplus.software.dynamic_report_rate" />
+
+    <!-- Zhenkun.Huang@Android.Memory 2023/07/11, Add for game bounce -->
+    <oplus-feature name="oplus.software.game_bounce_support" />
+    <!-- Zhenkun.Huang@Android.Memory 2023/07/11, add end -->
+
+    <!-- Yanwei.Liu@Android.camera 2023/10/23, Add for double click volume button lunch camera -->
+    <oplus-feature name="oplus.software.camera_volume_quick_launch" />
+    <!-- Yanwei.Liu@Android.camera 2023/10/23, add end -->
+
+    <!-- Junya.Li@Android.Performance 2023/10/25, Add for performance setting extension -->
+    <oplus-feature name="oplus.software.performance_setting_extension" />
+    <!-- Junya.Li@Android.Performance 2023/10/25, add end -->
+
+    <!-- Zhenkun.Huang@ANDROID.PERMISSION, 2023/12/12, add for application jump interception -->
+    <oplus-feature name="oplus.software.activity_start_manager" />
+    <!-- Zhenkun.Huang@ANDROID.PERMISSION, 2023/12/12, add end -->
+
+    <!-- haoran.chen@realme.com, 2024/02/08, add for touch preload -->
+    <oplus-feature name="oplus.software.enable_touch_preload" />
+    <!-- haoran.chen@realme.com, 2024/02/08, add end -->
+
+    <!-- Guoyi.Liang@ANDROID.WMS, 2024/05/17, add for startingsurface  -->
+    <oplus-feature name="oplus.software.support_quick_launchapp" />
+    <!-- Guoyi.Liang@ANDROID.WMS, 2024/05/17, add end -->
+
+    <!-- yanbin.zhang@ANDROID.PERMISSION, 2024/06/04, add for application jump interception -->
+    <oplus-feature name="oplus.software.activity_start_manager" />
+    <!-- Zhenkun.Huang@ANDROID.PERMISSION, 2024/06/04, add end -->
+
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2024/12/05, add for 4D vibrator sense -->
+    <oplus-feature name="oplus.software.haptic_vibrator_v1.support" />
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2024/12/05, add end -->
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2023/10/24, Add for general cooling back clip -->
+    <oplus-feature name="oplus.software.general.cooling.back.clip.enable" />
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2023/10/24, Add for general cooling back clip -->
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2024/3/13, Add for game cold start speedup -->
+    <oplus-feature name="oplus.software.game.cold.start.speedup.enable" />
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2024/3/13, Add for game cold start speedup -->
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2025/3/26, add for intelligent frame stabilization enable -->
+    <oplus-feature name="oplus.software.display.game.ifs_enable" />
+    <!-- wukangbao@ANDROID.PERFORMANCE.GAME, 2025/3/26, add end -->
+    <!-- Yanbin.Zhang@Android.WMS 2024/06/5, wbs check-->
+    <oplus-feature name="oplus.software.service.restrat_duration_low" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2024/06/5, wbs check -->
+    <!-- Yanbin.Zhang@Android.WMS 2024/06/5, wbs check-->
+    <oplus-feature name="oplus.software.perceptible_app_keep_alive" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2024/06/5, wbs check -->
+    <!-- Yanbin.Zhang@Android.WMS 2024/06/5, wbs check-->
+    <oplus-feature name="oplus.software.keep_alive_ext" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2024/06/5, wbs check -->
+    <!-- Yanbin.Zhang@Android.WMS 2024/06/5, wbs check-->
+    <oplus-feature name="oplus.software.floatwindow_hide_alertwindow_notification" />
+    <!-- ZhangYanbin@ANDROID.WMS, 2024/06/5, wbs check -->
+    <oplus-feature name="oplus.software.inputmethod.cn" />
+    <!-- Mashirong@ANDROID.INPUT, 2022/03/04, Add for shutdown by short press power. -->
+    <oplus-feature name="oplus.software.short_press_powerkey_shutdown" />
+    <!-- YiFeng.Yang@ANDROID.FRAMEWORK, 2023/05/24, add for combination rule-->
+    <oplus-feature name="oplus.software.combination.key.grab.systrace" />
+
+    <!-- liwenyao@BSP.SENSOR, 2024/07/29, add for One-click cleaning -->
+   <oplus-feature name="oplus.software.vibrator.kill_program_wave_support" />
+    <!-- liwenyao@BSP.SENSOR, 2024/07/29, add end -->
+    <!-- Bing.Zhong@ANDROID.BIOMETRICS, 2024/9/5, add for Whether to support fingerprint and face linkage unlocking -->
+    <oplus-feature name="oplus.software.fingerprint_face_combine_unlock" />
+    <!-- Bing.Zhong@ANDROID.BIOMETRICS, 2024/9/5, add end -->
+</oplus-config>

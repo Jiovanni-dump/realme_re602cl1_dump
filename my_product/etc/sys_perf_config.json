@@ -1,0 +1,156 @@
+[
+    {
+        "filter_name": "sys_perf_config"
+    },
+    {
+        "version": 20250721
+    },
+    {
+        "scroll_animation_opt": true,
+        "common_only": false,
+        "pre_anim_strategy": 1,
+        "pre_anim_blacklist": [
+            "com.kyk.world",
+            "com.shopify.arrive",
+            "com.taobao.taobao",
+            "com.sankuai.meituan",
+            "me.ele",
+            "cn.damai",
+            "com.sina.weibo",
+            "com.taobao.etao",
+            "com.baidu.tieba",
+            "com.taobao.idlefish",
+            "com.UCMobile",
+            "com.xingin.xhs",
+            "com.microsoft.emmx",
+            "com.lemon.lv",
+            "com.tencent.news",
+            "com.quark.browser",
+            "com.android.launcher"
+        ],
+        "pre_anim_whitelist": [
+
+        ],
+        "frame_insert_default_num": 1,
+        "frame_insert_list": {
+            "com.sina.weibo": {
+                "com.sina.weibo.VisitorMainTabActivity": 3
+            },
+            "com.tencent.mm": {
+                "com.tencent.mm.plugin.sns.ui.SnsTimeLineUI": 3,
+                "com.tencent.mm.ui.AlbumUI": 3,
+                "com.tencent.mm.plugin.sns.ui.improve.ImproveSnsTimelineUI": 3
+            },
+            "com.sankuai.meituan": {
+                "com.sankuai.waimai.business.page.kingkong.KingKongActivity": 0
+            },
+            "com.xueqiu.android": {
+                "com.xueqiu.android.common.imagebrowse.inner.ui.ImageBrowseActivity": 0
+            },
+            "com.netease.newsreader.activity": {
+                "com.netease.newsreader.article.framework.view.NewsPageActivity": 0
+            },
+            "com.taobao.idlefish": {
+
+            },
+            "com.kyk.world": {
+
+            },
+            "com.shopify.arrive": {
+
+            },
+            "com.android.launcher": {
+
+            }
+        },
+        "scroll_changed_enable_list": {
+            "com.tencent.qqlive":[
+                "com.tencent.qqlive.ona.activity.SplashHomeActivity"
+            ],
+            "com.baidu.searchbox": [
+                "com.baidu.searchbox.MainActivity"
+            ],
+            "com.tencent.mm": [
+                "com.tencent.mm.ui.AlbumUI",
+                "com.tencent.mm.plugin.sns.ui.SnsTimeLineUI"
+            ],
+            "com.sina.weibo": [
+                "com.sina.weibo.VisitorMainTabActivity",
+                "com.sina.weibo.video.tabcontainer.VideoTabContainerActivity",
+                "com.sina.weibo.page.searchv2.SearchActivityV2",
+                "com.sina.weibo.page.ProfileInfoActivity",
+                "com.sina.weibo.MainTabActivity"
+            ],
+            "com.xunmeng.pinduoduo": [
+                "com.xunmeng.pinduoduo.activity.NewPageActivity",
+                "com.xunmeng.pinduoduo.ui.activity.HomeActivity"
+            ],
+            "com.sankuai.meituan": [
+                "com.meituan.android.pt.homepage.activity.MainActivity"
+            ],
+            "com.tencent.mobileqq": [
+                "com.qzone.feed.ui.activity.QZoneFriendFeedActivity",
+                "com.tencent.mobileqq.activity.SplashActivity",
+                "com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity"
+            ],
+            "com.dragon.read": [
+                "com.dragon.read.pages.main.MainFragmentActivity"
+            ],
+            "com.ct.client": [
+                "com.ct.client.activity.MainActivity"
+            ],
+            "com.netease.cloudmusic": [
+                "com.netease.cloudmusic.activity.MainActivity",
+                "com.netease.cloudmusic.activity.IconChangeDefaultAlias"
+            ],
+            "com.tencent.qqmusic": [
+                "com.tencent.qqmusic.activity.AppStarterActivity"
+            ],
+            "com.xingin.xhs": [
+                "com.xingin.xhs.index.v2.IndexActivityV2"
+            ],
+            "com.taobao.etao": [
+                "com.taobao.etao.app.temai.MetaXTemaiActivity"
+            ],
+            "com.taobao.taobao": [
+                "com.taobao.taobao.MiniActivity",
+                "com.taobao.tao.welcome.Welcome"
+            ],
+            "com.coloros.smartsidebar": [
+                "com.oplus.smartsidebar.settings.EdgePanelSettingsActivity"
+            ],
+            "tv.danmaku.bili": [
+                "com.bilibili.lib.ui.GeneralActivity",
+                "tv.danmaku.bili.ui.webview.MWebActivity"
+            ],
+            "me.ele": [
+                "me.ele.application.ui.Launcher.LauncherActivity"
+            ],
+            "ctrip.android.view": [
+                "ctrip.android.publicproduct.home.view.CtripHomeActivity"
+            ],
+            "com.rt.market.fresh": [
+                "com.rt.market.fresh.home.activity.MainActivity"
+            ],
+            "com.tencent.news": [
+                "com.tencent.news.activity.SplashActivity"
+            ]
+        },
+        "gc_supression_enable": true,
+        "gc_supression_blacklist": {
+
+        },
+        "st_buffer_opt_enable": true,
+        "st_buffer_opt_strategy": 2,
+        "st_buffer_opt_blacklist": [
+
+        ],
+        "st_buffer_opt_whitelist": [
+            "com.tencent.mm"
+        ],
+        "input_opt_enable": true,
+        "input_opt_blacklist": [
+
+        ]
+    }
+]

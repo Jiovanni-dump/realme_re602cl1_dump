@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>20241031</version>
+    <filter-name>display_frc_white_list</filter-name>
+
+    <!--Config activity switch-->
+    <mConfigActivity>com.tencent.tmgp.pubgmhd/com.epicgames.ue4.GameActivity</mConfigActivity> <!--和平精英-->
+    <mConfigActivity>com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity> <!--原神-->
+    <mConfigActivity>com.miHoYo.ys.bilibili/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity>com.miHoYo.Yuanshen/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity>com.miHoYo.ys.mi/com.miHoYo.GetMobileInfo.MainActivity</mConfigActivity>
+    <mConfigActivity>com.miHoYo.hkrpg/com.mihoyo.combosdk.ComboSDKActivity</mConfigActivity> <!--崩坏：星穹铁道-->
+    <mConfigActivity>com.tencent.jkchess/com.tencent.jkchess.ApolloZGame</mConfigActivity> <!--金铲铲之战-->
+    <mConfigActivity>com.tencent.mf.uam/com.epicgames.ue4.GameActivity</mConfigActivity> <!--暗区突围-->
+    <mConfigActivity>com.netease.party.nearme.gamecenter/com.netease.party.Client</mConfigActivity> <!--蛋仔派对-->
+    <mConfigActivity>com.tencent.letsgo/com.epicgames.ue4.GameActivityExt</mConfigActivity> <!--元梦之星-->
+    <mConfigActivity>com.kurogame.haru.nearme.gamecenter/com.haru.herousdk.MainActivity</mConfigActivity> <!--战双帕弥什-->
+    <mConfigActivity>com.tencent.tmgp.cod/com.tencent.tmgp.cod.CODMainActivity</mConfigActivity> <!--使命召唤手游-->
+    <mConfigActivity>com.riotgames.league.wildrifttw/com.tencent.lolm.lgame</mConfigActivity> <!--英雄联盟手游-->
+    <mConfigActivity>com.riotgames.league.wildriftvn/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity>com.riotgames.league.wildrift/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity>com.tencent.lolm/com.tencent.lolm.lgame</mConfigActivity>
+    <mConfigActivity>com.miHoYo.bh3.nearme.gamecenter/com.miHoYo.overridenativeactivity.OverrideNativeActivity</mConfigActivity> <!--崩坏3-->
+    <mConfigActivity>com.tencent.tmgp.speedmobile/com.tencent.tmgp.speedmobile.speedmobile</mConfigActivity> <!--QQ飞车-->
+    <mConfigActivity>com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity</mConfigActivity> <!--QQ飞车-->
+    <mConfigActivity>com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity</mConfigActivity> <!--穿越火线：枪战王者-->
+    <mConfigActivity>com.tencent.tmgp.dnf/com.tencent.tmgp.dnf.DNFMainActivity</mConfigActivity> <!--DNF手游-->
+    <mConfigActivity>com.miHoYo.Nap/com.mihoyo.combosdk.ComboSDKActivity</mConfigActivity> <!--绝区零-->
+    <mConfigActivity>com.tencent.ig/com.epicgames.ue4.GameActivity</mConfigActivity> <!--PUBG MOBILE-->
+    <mConfigActivity>com.pubg.imobile/com.epicgames.ue4.GameActivity</mConfigActivity> <!--BGMI-->
+    <mConfigActivity>com.dts.freefireth/com.dts.freefireth.FFMainActivity</mConfigActivity> <!--Free Fire-->
+    <mConfigActivity>com.dts.freefiremax/com.dts.freefireth.FFMainActivity</mConfigActivity> <!--Free Fire MAX-->
+    <mConfigActivity>com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity</mConfigActivity> <!--崩坏：星穹铁道 海外版-->
+    <mConfigActivity>com.levelinfinite.sgameGlobal/com.levelinfinite.sgameGlobal.SGameGlobalActivity</mConfigActivity> <!--HOK-->
+    <mConfigActivity>com.levelinfinite.sgameGlobal.midaspay/com.levelinfinite.sgameGlobal.SGameGlobalActivity</mConfigActivity> <!--HOK-->
+
+    <!--Config AISR-->
+    <mConfigAISRPackage type="1">com.miHoYo.GenshinImpact</mConfigAISRPackage> <!--原神-->
+    <mConfigAISRPackage type="1">com.miHoYo.ys.bilibili</mConfigAISRPackage>
+    <mConfigAISRPackage type="1">com.miHoYo.Yuanshen</mConfigAISRPackage>
+    <mConfigAISRPackage type="1">com.miHoYo.ys.mi</mConfigAISRPackage>
+    <mConfigAISRPackage type="1">com.miHoYo.Nap</mConfigAISRPackage> <!--绝区零-->
+    <mConfigAISRPackage type="1">com.tencent.tmgp.dnf</mConfigAISRPackage> <!--DNF手游-->
+</filter-conf>

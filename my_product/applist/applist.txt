@@ -1,0 +1,13 @@
+com.oplus.hamlet:Hamlet.apk::false
+com.oplus.ovoicemanager.wakeup:OVoiceManagerService.apk::false
+com.aiunit.aon:AONService.apk::false
+com.oplus.heartrate.detect:HeartRateDetect.apk::false
+com.coloros.systemclone:SystemClone.apk::false
+com.oplus.gtmode:GTMode.apk::false
+com.oplus.aiplaymate:AIPlaymate.apk::false
+com.newcall.overlay:NewCallOverlay.apk::false
+com.oplus.consumerIRApp:ConsumerIRApp.apk::false
+com.oplus.camera:OplusCamera.apk::false
+com.oplus.smartmediacontroller:SmartMediaController.apk::false
+com.oplus.audio.effectcenter:AudioEffectCenter.apk::false
+com.oplus.colorx:Colorx.apk::false

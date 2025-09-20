@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extend_features>
+	<app_feature name="com.oplus.gallery3d.aihd_url" args="String:https://realme-ai-cn.allawntech.com/"/>
+	<app_feature name="com.oplus.dmp.aiask_enable" args="int:1"/>
+</extend_features>
+<!-- Timestamp 2025-08-14T15:47:33 #ceff546f-6500-44e0-bb13-4ff108b7e8a2 -->

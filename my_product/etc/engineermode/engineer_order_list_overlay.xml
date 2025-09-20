@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderList version="20190101" xmlns:android="http://schemas.android.com/apk/res/android">
+	<OrderItem name="*#547967#" type="startService" platform="ALL" region="CN" level="4">
+		<intent 
+			android:action="oplus.intent.action.COTA_FROM_CODE" 
+			android:targetClass="com.oplus.cota.main.service.CotaService"
+            android:targetPackage="com.oplus.cota"/>
+    </OrderItem>
+</OrderList>

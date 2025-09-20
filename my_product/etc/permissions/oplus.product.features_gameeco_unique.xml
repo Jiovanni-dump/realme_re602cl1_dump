@@ -1,0 +1,23 @@
+<oplus-config>
+    <!-- Add for edr feature start -->
+    <oplus-feature name="oplus.software.display.game.hdr3.0_enable"/>
+    <!-- end -->
+    <!-- Add for dapr feature start -->
+    <oplus-feature name="oplus.software.display.game.dapr_enable"/>
+    <!-- end -->
+    <!-- ZhangYelin @GAMEECO.COOLEFFECT.COOLEX, 2022/07/19, Add for coolex feature start -->
+    <oplus-feature name="oplus.software.coolex.support"/>
+    <!-- end -->
+    <!-- zhouyanfa @ANDROID.GMAE.base_common, 2025/07/07, Add for vulkan feature start -->
+    <oplus-feature name="oplus.software.display.game.support_vulkan"/>
+    <!-- end -->
+    <!-- kent.xie@ANDROID.GAME.PERFORMANCE, 2025/06/27, Add for shoulderkey_support feature start -->
+    <oplus-feature name="oplus.software.shoulderkey_support"/>
+    <!-- end -->
+    <!-- Xieqiujie @GAMEECO.COOLEFFECT.OSR2.0, 2025/07/14, Add for osr2.0 feature start -->
+    <oplus-feature name="oplus.software.display.game.otsr_enable"/>
+    <!-- end -->
+    <!-- kent.xie@ANDROID.GAME.PERFORMANCE, 2025/08/04, Add for osr_enable feature start -->
+    <oplus-feature name="oplus.software.display.game.osr_enable"/>
+    <!-- end -->
+</oplus-config>

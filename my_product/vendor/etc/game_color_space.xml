@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>20241221</version>
+    <filter-name>game_color_space</filter-name>
+    <!--Function Black List package -->
+
+    <!--Beautify White List package -->
+    <mBeautifyWhiteListPackage  type="0,-1,10,8,10">com.miHoYo.Yuanshen</mBeautifyWhiteListPackage> <!--原神-->
+    <mBeautifyWhiteListPackage  type="0,-1,10,8,10">com.miHoYo.Nap</mBeautifyWhiteListPackage> <!--绝区零-->
+    <mBeautifyWhiteListPackage  type="0,-1,10,8,10">com.miHoYo.hkrpg</mBeautifyWhiteListPackage> <!--崩坏：星穹铁道-->
+    <mBeautifyWhiteListPackage  type="0,-1,10,8,10">com.netease.l22.nearme.gamecenter</mBeautifyWhiteListPackage> <!--永劫无间手游-->
+
+    <mDarkEnhance>-3,-14,-8,36,20</mDarkEnhance>
+
+</filter-conf>

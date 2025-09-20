@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-conf>
+    <version>2023111701</version>
+    <filter-name>sys_game_bounce_config</filter-name>
+    <GameParams key="PREDICTION_COUNT" type="String" value="8-1|12-2|16-4|24-6" />
+    <!--package name list -->
+    <GameParams key="VIRTUAL_DISPLAY_SUPPORT_LIST" type="String"
+        value="com.miHoYo.Yuanshen,com.miHoYo.hkrpg,com.miHoYo.hkrpgcb,com.netease.nshm.nearme.gamecenter,com.netease.nshm,com.netease.party.nearme.gamecenter,com.netease.party,com.tencent.tmgp.party,com.netease.my.nearme.gamecenter,com.hermes.p6game.nearme.gamecenter" />
+    <!--thermal limit-->
+    <GameParams key="VIRTUAL_DISPLAY_THERMAL_THRESHOLD" type="Float" value="47.0" />
+    <!--battery limit-->
+    <GameParams key="VIRTUAL_DISPLAY_BATTERY_LEVEL_THRESHOLD" type="Int" value="20" />
+    <!--persist time in minutes-->
+    <GameParams key="VIRTUAL_DISPLAY_PERSIST_DURATION_MINUTES" type="Int" value="3" />
+    <!--max time out-->
+    <GameParams key="VIRTUAL_DISPLAY_MAX_TIMEOUT_COUNT" type="Int" value="10" />
+
+</filter-conf>

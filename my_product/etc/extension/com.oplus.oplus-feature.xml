@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.software.view.spring_over_scroller"/>
+	<oplus-feature name="oplus.software.camera_volume_quick_launch"/>
+	<oplus-feature name="oplus.software.preload.camera"/>
+	<oplus-feature name="com.oplus.camera.under.water.support"/>
+	<oplus-feature name="oplus.software.support_quick_launchapp"/>
+	<oplus-feature name="oplus.software.support_blockable_animation"/>
+	<oplus-feature name="oplus.velocitytracker.strategy.support"/>
+	<oplus-feature name="oplus.software.screenon_before_special_action_open_camera"/>
+	<oplus-feature name="oplus.software.pcconnect.support"/>
+	<oplus-feature name="oplus.software.pctelephone.support"/>
+	<oplus-feature name="oplus.software.view.rgbnormalize"/>
+	<oplus-feature name="oplus.software.support.zoom.multi_mode"/>
+	<oplus-feature name="oplus.software.memory_nirvana.enable"/>
+	<oplus-feature name="oplus.software.smart_loop_drag"/>
+	<oplus-feature name="oplus.software.joystick.game_joystick_support"/>
+	<oplus-feature name="oplus.software.touch_preload"/>
+	<oplus-feature name="oplus.software.string_gc_support"/>
+	<oplus-feature name="com.oplus.location.car_phone_connection"/>
+</oplus-config>
+<!-- Timestamp 2025-06-25T14:30:19 #761288 -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NetworkParams>
+    <version>20240522</version>
+    <ant_opt_game_cfg>1</ant_opt_game_cfg>
+    <ant_opt_scene_cfg>com.tencent.tmgp.sgame,com.tencent.tmgp.pubgmhd,com.tencent.tmgp.speedmobile,com.tencent.lolm,com.tencent.tmgp.cf,com.kiloo.subwaysurf,com.innersloth.spacemafia,com.supercell.clashofclans,com.tencent.ig,com.dts.freefireth,com.activision.callofduty.shooter,com.ludo.king</ant_opt_scene_cfg>
+    <ant_opt_usb_cfg>1</ant_opt_usb_cfg>
+    <ant_opt_screen_cfg>1</ant_opt_screen_cfg>
+    <ant_opt_wifi_cfg>0</ant_opt_wifi_cfg>
+    <ant_opt_call_cfg>0</ant_opt_call_cfg>
+    <ant_opt_data_cfg>1</ant_opt_data_cfg>
+    <ant_opt_signal_cfg>-40</ant_opt_signal_cfg>
+</NetworkParams>

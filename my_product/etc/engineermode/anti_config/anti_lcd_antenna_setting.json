@@ -1,0 +1,504 @@
+[
+  {
+    "band_name": "LTE1",
+    "check_state": true,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": true
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE3",
+    "check_state": true,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": true
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE4",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE5",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE8",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE18",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE19",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE26",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE28",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE34",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE38",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE39",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE40",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE41",
+    "check_state": true,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": true
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "LTE66",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "GSM850",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "GSM900",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "GSM1800",
+    "check_state": true,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": true
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR1",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR3",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR5",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR8",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR28",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant0",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant1",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR38",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR40",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR41",
+    "check_state": true,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": true
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR66",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant2",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR77",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant8",
+        "check_state": false
+      }
+    ]
+  },
+  {
+    "band_name": "NR78",
+    "check_state": false,
+    "selected_ant": [
+      {
+        "ant_id": "ant4",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant5",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant6",
+        "check_state": false
+      },
+      {
+        "ant_id": "ant8",
+        "check_state": false
+      }
+    ]
+  }
+]

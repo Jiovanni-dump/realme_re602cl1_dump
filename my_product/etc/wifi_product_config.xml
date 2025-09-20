@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WifiProductConfig>
+    <version>2023042411</version>
+    <!--WIFI Coex BTC configuraion begin-->
+    <FDD_WIFI_GAME_RSSI_TH>-127:-128</FDD_WIFI_GAME_RSSI_TH>
+    <FDD_WIFI_NORMAL_RSSI_TH>-75:-85</FDD_WIFI_NORMAL_RSSI_TH>
+    <FDDV3_QCOM_SOFTAP_SUPPORT>true</FDDV3_QCOM_SOFTAP_SUPPORT>
+    <FDDV3_QCOM_P2P_SUPPORT>true</FDDV3_QCOM_P2P_SUPPORT>
+    <!--WIFI Coex BTC configuraion end-->
+    <!--WIFI regulation configuraion begin-->
+    <WIFI7_FORBIDDEN_COUNTRY_LIST>PH,ID</WIFI7_FORBIDDEN_COUNTRY_LIST>
+    <!--WIFI regulation configuraion end-->
+</WifiProductConfig>

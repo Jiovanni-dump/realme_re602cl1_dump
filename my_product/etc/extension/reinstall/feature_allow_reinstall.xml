@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+    <app_feature name="com.oplus.customize.allow_reinstall_packages" args="StringList:packages">
+        <StringList name="packages" args="com.heytap.cloud"/>
+    </app_feature>
+</extend_features>

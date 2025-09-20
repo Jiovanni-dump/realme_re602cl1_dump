@@ -1,0 +1,536 @@
+{
+    "version": 2025080401,
+    "feature": {
+        "colorx": {
+            "coolex_white_list": [
+                "com.tencent.tmgp.sgame",
+                "com.tencent.tmgp.sgamece",
+                "com.tencent.tmgp.pubgmhd",
+                "com.tencent.tmgp.projectg",
+                "com.tencent.ig",
+                "com.netease.dwrg",
+                "com.netease.dwrg.nearme.gamecenter",
+                "com.tencent.lolm",
+                "com.netease.onmyoji.nearme.gamecenter"
+            ],
+            "ror_white_list": [
+                "com.tencent.tmgp.sgame",
+                "com.tencent.tmgp.pubgmhd"
+            ],
+            "vrs_white_list": [
+                "com.tencent.tmgp.sgame",
+                "com.tencent.tmgp.pubgmhd",
+                "com.tencent.tmgp.projectg",
+                "com.miHoYo.Yuanshen",
+                "com.miHoYo.ys.bilibili",
+                "com.miHoYo.GenshinImpact",
+                "com.miHoYo.ys.mi",
+                "com.miHoYo.yuanshencb",
+                "com.tencent.lolm",
+                "com.netease.sky.nearme.gamecenter",
+                "com.netease.sky"
+            ],
+            "edr3_white_list": [
+                "com.tencent.tmgp.sgame",
+                "com.tencent.tmgp.sgamece",
+                "com.tencent.tmgp.pubgmhd",
+                "com.tencent.tmgp.projectg",
+                "com.miHoYo.Yuanshen",
+                "com.miHoYo.ys.bilibili",
+                "com.miHoYo.GenshinImpact",
+                "com.miHoYo.ys.mi",
+                "com.miHoYo.yuanshencb",
+                "com.tencent.lolm",
+                "com.tencent.tmgp.cf",
+                "com.tencent.tmgp.speedmobile",
+                "com.netease.sky.nearme.gamecenter",
+                "com.netease.sky",
+                "com.miHoYo.hkrpg",
+                "com.miHoYo.hkrpg.bilibili",
+                "com.riotgames.league.wildrift",
+                "com.tencent.ig",
+                "com.mobile.legends",
+                "com.mobile.legends:UnityKillsMe",
+                "com.activision.callofduty.shooter"
+            ],
+            "edr3_white_list_v2": [
+                {
+                    "pkg": "com.tencent.tmgp.sgame",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.tencent.tmgp.sgamece",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg.bilibili",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.HoYoverse.hkrpgoversea",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpgcb",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg.bilibili",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.HoYoverse.hkrpgoversea",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpgcb",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.tencent.tmgp.sgame",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.tencent.tmgp.sgamece",
+                    "graphic_api": "vulkan"
+                }
+            ],
+            "dapr_white_list_v2": [
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "gles",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "gles",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "gles",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "gles",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "gles",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg",
+                    "graphic_api": "gles",
+                    "extreme": 810,
+                    "extreme_60": 900,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg.bilibili",
+                    "graphic_api": "gles",
+                    "extreme": 810,
+                    "extreme_60": 900,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "vulkan",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "vulkan",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "vulkan",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "vulkan",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "vulkan",
+                    "extreme": 900,
+                    "extreme_60": 1080,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg",
+                    "graphic_api": "vulkan",
+                    "extreme": 810,
+                    "extreme_60": 900,
+                    "extreme_X60": 1080
+                },
+                {
+                    "pkg": "com.miHoYo.hkrpg.bilibili",
+                    "graphic_api": "vulkan",
+                    "extreme": 810,
+                    "extreme_60": 900,
+                    "extreme_X60": 1080
+                }
+            ],
+            "osr_1_0_white_list": [
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "vulkan"
+                }
+            ],
+            "osr_2_0_white_list": [
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "vulkan",
+                    "extreme": 1080,
+                    "extreme_60": 1264,
+                    "extreme_X60": 1264
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "vulkan",
+                    "extreme": 1080,
+                    "extreme_60": 1264,
+                    "extreme_X60": 1264
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "vulkan",
+                    "extreme": 1080,
+                    "extreme_60": 1264,
+                    "extreme_X60": 1264
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "vulkan",
+                    "extreme": 1080,
+                    "extreme_60": 1264,
+                    "extreme_X60": 1264
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "vulkan",
+                    "extreme": 1080,
+                    "extreme_60": 1264,
+                    "extreme_X60": 1264
+                }
+            ],
+            "gcd_white_list": [
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "gles"
+                },
+                {
+                    "pkg": "com.miHoYo.Yuanshen",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.GenshinImpact",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.bilibili",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.ys.mi",
+                    "graphic_api": "vulkan"
+                },
+                {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "graphic_api": "vulkan"
+                }
+            ],
+            "autoRunLockCoordinates": {
+                "3392:2400": {
+                    "x": [600.0, 870.0],
+                    "y": 530.0
+                },
+                "2780:1264": {
+                    "x": [450.0, 730.0],
+                    "y": 510.0
+                },
+                "2376:1080": {
+                    "x": [390.0, 630.0],
+                    "y": 435.0
+                },
+                "3168:1440": {
+                    "x": [580.0, 800.0],
+                    "y": 581.0
+                },
+                "2640:1216": {
+                    "x": [470.0, 536.0],
+                    "y": 485.0
+                }
+            },
+            "autoPickupCoordinates": {
+                "3392:2400": {
+                    "x": 1200.0,
+                    "y": 1696.0
+                },
+                "2780:1264": {
+                    "x": 632.0,
+                    "y": 1390.0
+                },
+                "2376:1080": {
+                    "x": 540.0,
+                    "y": 1188.0
+                },
+                "3168:1440": {
+                    "x": 720.0,
+                    "y": 1584.0
+                },
+                "2640:1216": {
+                    "x": 608,
+                    "y": 1320
+                }
+            },
+            "autoFreezeCoordinates": {
+                "3392:2400": {
+                    "x": 1200.0,
+                    "y": 2445.0
+                },
+                "2780:1264": {
+                    "x": 632.0,
+                    "y": 1977.0
+                },
+                "2376:1080": {
+                    "x": 540.0,
+                    "y": 1690.0
+                },
+                "3168:1440": {
+                    "x": 720.0,
+                    "y": 2217.0
+                },
+                "2640:1216": {
+                    "x": 593,
+                    "y": 1860.0
+                }
+            },
+            "rus_file": {
+                "sys_coolex_gamedata_yuanshen_hdr": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_yuanshen_vulkan_hdr": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_wzry_hdr": [
+                    "com.tencent.tmgp.sgame",
+                    "com.tencent.tmgp.sgamece"
+                ],
+                "sys_coolex_gamedata_wzry_vulkan_hdr": [
+                    "com.tencent.tmgp.sgame",
+                    "com.tencent.tmgp.sgamece"
+                ],
+                "sys_coolex_gamedata_pubg_hdr": [
+                    "com.tencent.tmgp.pubgmhd",
+                    "com.tencent.tmgp.projectg"
+                ],
+                "sys_coolex_gamedata_lolm_hdr": [
+                    "com.tencent.lolm"
+                ],
+                "sys_coolex_gamedata_speedmobile_hdr": [
+                    "com.tencent.tmgp.speedmobile"
+                ],
+                "sys_coolex_gamedata_guangyu_hdr": [
+                    "com.netease.sky.nearme.gamecenter",
+                    "com.netease.sky"
+                ],
+                "sys_coolex_gamedata_hkrpg_hdr": [
+                    "com.miHoYo.hkrpg",
+                    "com.miHoYo.hkrpg.bilibili",
+                    "com.HoYoverse.hkrpgoversea",
+                    "com.miHoYo.hkrpgcb"
+                ],
+                "sys_coolex_gamedata_hkrpg_vulkan_hdr": [
+                    "com.miHoYo.hkrpg",
+                    "com.miHoYo.hkrpg.bilibili",
+                    "com.HoYoverse.hkrpgoversea",
+                    "com.miHoYo.hkrpgcb"
+                ],
+                "sys_coolex_gamedata_cf_hdr": [
+                    "com.tencent.tmgp.cf"
+                ],
+                "sys_coolex_gamedata_mobilelegends_hdr": [
+                    "com.mobile.legends",
+                    "com.mobile.legends:UnityKillsMe"
+                ],
+                "sys_coolex_gamedata_wildrift_hdr": [
+                    "com.riotgames.league.wildrift"
+                ],
+                "sys_coolex_gamedata_callofduty_hdr": [
+                    "com.activision.callofduty.shooter"
+                ],
+                "sys_coolex_gamedata_ig_hdr": [
+                    "com.tencent.ig"
+                ],
+                "sys_coolex_gamedata_yuanshen_vulkan_otsr": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_yuanshen_vulkan_gcd": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_yuanshen_gcd": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ]
+            }
+        },
+        "GameGpuControlPanel": {
+            "preload_data": {
+                "qcom_private_data": [
+                    {
+                        "pkgname": "com.miHoYo.hkrpg",
+                        "content": "CqMFCp4FCip0eXBlLmdvb2dsZWFwaXMuY29tL0dyYXBoaWNzUHJvZmlsZVByaXZhdGUS7wTJBUk6dZSLXq8Lnc1Ys4+k3GWyra/BYwzZAWJyGE5mP4bKGaKuvbGm2pFXyrEA1BZtAZq/nYNS7sVk3EyriUatYY37tbc6NZhBdjz2ICtOs6v6Lq9ZurplpGbBi6n6jXnFh/TVW01v0RZRbO6ajcK4medTIsEFICrh6tWe3J9J6wISZ0pfQxYVGoWduDwzCWiX8ANna7+UAJZ9KgHiqabsOHbcMk2I+Ad+aKOC9E0uYaG5aDn71UGXovt93H7klCwb0Hcx5eJ30w56UOo6WSTC6s6Nu/6wPzPW+ZUPElav6JWhsoJxB4I/TTcaWEe22VXfd3P5VTbJ+qqWqVRKBnGAtzomaRX6lTLO5VNhKZeizeJ68+K91mgG2V09ZBcPaimfgCr/uIL6pc6UCt/sFo4QOBynip2fXfTdZPdWjYZPpVXtkIeMAxXDMYL3VktMSNeKwS/lSqeSaLlnm624/JQjwY2UsQQ4RSDb/kGF5P/Wi86xdSLdEiYru/7YhfbcTeIgBWZDGF4kClGp0KxmHgBnhe4sbV2+gSCyfSQm87WU4idO2SdJpYRISCj08dpTqkvIeWFqtpEJiuOjbtd074lwRMJ7M6atcsUZcVGrZU8vgKWXze2RzD4N0uaPBTFQo+u3j6W0aCWVMUYNH0dxitVu3BYDhQpgtoZsVRgkNBwJ17EhbXFilcFHuEuIwUXw0KbXevmipJ13BdoBXnQaAWBimqYt/LCIpoLIil3tvRTFEmgRmYShmVnCx3XrS6+YOM09r8/Y03V0Au81lS87Z1/Q3tsk8Q/t4yH7ItXI/a/QZ4TRtoIBAtBFw5GLez0OsRgBCoYCCoMCCip0eXBlLmdvb2dsZWFwaXMuY29tL0dyYXBoaWNzUHJvZmlsZVByaXZhdGUS1AHJakkfSpLLbLgEjvRD562zwW39oZjafAf/QVh3ZmIxM+Tg2DAV7t7xo+Bp17o+0jhtMp6VvJhG4shsykuwjmOmTv3t4tBeQphBdjz2ICsCs97JeflqsbVjp3GuibP7gxTLjvbFQUcS8zNyMcbMsoGczI0GAfI6GhyPiztAWPEmtlhCSRROayoVHqqEsQo2HGeA1C1rd4iTI7ZxPxHDroLiKHHVOT7ovlF/f+zDbuNtyHiiJBKYu2Cd/K0qhTq70DhYhCJs+6MhkVkgHynJhPUsGDIyjQ=="
+                    },
+                   {
+                        "pkgname": "com.miHoYo.Nap",
+                        "content": "CtYCCtECCip0eXBlLmdvb2dsZWFwaXMuY29tL0dyYXBoaWNzUHJvZmlsZVByaXZhdGUSogLJHUlCdZSLXq8Lnc1Ys4+k3GWyra/BYwzZAWJyGE5mP4bKGaKuqLq1y5RB/bsDzTBuALWaiYpR9flk61GNhk+lTfaYibYMH/Ag5JJhcXRoo/oI60Is1YcLjWaA1LzwjjPLkajBVk0sjhBZMOrMmsKIxvMtJosOZxit9+uP6YFF9SYFZlhxQiYLN62dpiEpDWCHxzdvboGVO5B9LhnuooORSSyebTboaqnpOfyV5A/cpEzMBw6V9EHW/e533zTqgnAP3XdyuuR/jwosR+oKBjCo4oWU99PtFwbB+I8VFUek8qaLuopPI58iTi0hVGCr/UrMaWHEKVCetvb7W439UhnxhTwqJ1Se1Qj4UtmSG6fN94k6quz5gzRWlp++5K2+9bQLxRgB"
+                    }
+                ]
+            }
+        }
+    }
+}

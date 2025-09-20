@@ -1,0 +1,36 @@
+<oplus-config>
+    <!-- =================== DISPLAY FEATURES BEGIN ================================ -->
+    <!-- brightness feature -->
+    <oplus-feature name="oplus.software.display.screen_gloablehbm_support"/>
+    <oplus-feature name="oplus.software.display.autobrightctl_animation_support"/>
+    <oplus-feature name="oplus.software.display.multibits_dimming_support"/>
+    <oplus-feature name="oplus.software.display.brightness_mode_automatic"/>
+    <!-- colormode feature -->
+    <oplus-feature name="oplus.software.display.cinema_mode_support" />
+    <oplus-feature name="oplus.software.display.colorful_mode_support" />
+    <oplus-feature name="oplus.software.display.colormode_calibrate_support" />
+    <oplus-feature name="oplus.software.display.colormode_support"/>
+    <oplus-feature name="oplus.software.display.rgb_ball_support"/>
+    <oplus-feature name="oplus.software.display.eyeprotect_paper_texture_support" />
+    <oplus-feature name="oplus.software.display.eyeprotect_game_support" />
+    <oplus-feature name="oplus.software.display.aod_support"/>
+    <oplus-feature name="oplus.software.display.aod_prevent_burn_support"/>
+    <oplus-feature name="oplus.software.display.color_space_support" />
+    <oplus-feature name="oplus.software.display.game_color_space_support" />
+    <!-- Add for dual light sensor support-->
+    <oplus-feature name="oplus.software.display.dual_lightsensor_support"/>
+    <oplus-feature name="oplus.software.display.screen_heteromorphism"/>
+    <!-- Add for display calbrication 100APL   -->
+    <oplus-feature name="oplus.software.display.screen_calibrate_100apl"/>
+    <oplus-feature name="oplus.software.display.single_pulse_refreshrate_144_not_support"/>
+    <oplus-feature name="oplus.software.display.local_hbm_support"/>
+    <oplus-feature name="oplus.software.display.color_temperature_six_sections_rm_support"/>
+    <!-- Add for FRC support-->
+    <oplus-feature name="oplus.software.display.frc_support"/>
+    <oplus-feature name="oplus.software.display.ai_sr_support"/>
+    <!-- Add for peak brightness test -->
+    <oplus-feature name="oplus.software.display.peak_brightness_test_support"/>
+    <oplus-feature name="oplus.software.display.adfr_v32_lp"/>
+    <!-- Add for reduce white point -->
+    <oplus-feature name="oplus.software.display.reduce_white_point"/>
+</oplus-config>

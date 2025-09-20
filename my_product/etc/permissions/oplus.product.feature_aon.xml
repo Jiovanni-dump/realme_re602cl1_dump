@@ -1,0 +1,7 @@
+<oplus-config>
+    <oplus-feature name="oplus.hardware.aon_enable" />
+    <oplus-feature name="oplus.software.aon_distance_detection_enable" />
+    <oplus-feature name="oplus.software.aon_pose_detection_enable" />
+    <oplus-feature name="oplus.software.aon_sensorhub_enable" />
+    <oplus-feature name="oplus.software.aon_gesture_control_enable" />
+</oplus-config>
